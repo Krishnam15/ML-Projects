@@ -37,7 +37,7 @@ A content-based movie recommendation system built using Python, Streamlit, and m
 
 ## 🖥️ App Preview
 
-![Movie Recommender Screenshot](Movie Matchmaker/app interface 1.png)
+![App Screenshot](screenshot.png)
 ---
 
 ## 🧾 Files in the Project

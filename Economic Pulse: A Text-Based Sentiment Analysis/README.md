@@ -1,6 +1,6 @@
 # 📊 Economic Pulse – A Text-Based Analysis
 
-This project presents a pipeline that performs sentiment analysis on economic news articles by combining web scraping and Natural Language Processing (NLP). Using Python, Selenium, and the VADER sentiment analyzer, it extracts real-time articles and assesses economic sentiment trends based on the textual content.
+This project presents a pipeline that performs sentiment analysis on economic news articles by combining Web Scraping and Natural Language Processing (NLP). Using Python, Selenium, Beautiful Soup, and the VADER sentiment analyzer, it extracts real-time articles and assesses economic sentiment trends based on the textual content.
 
 ---
 

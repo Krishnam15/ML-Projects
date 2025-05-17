@@ -10,7 +10,8 @@ This project presents a pipeline that performs sentiment analysis on economic ne
 To automate the extraction of news articles and analyze their sentiment to assess the public tone around economic events.
 
 **Key Features:**
-- Web scraping of news articles using Selenium.
+- Web Browser handling through Selenium
+- Web scraping of news articles using the Beautiful Soup library.
 - Text cleaning and preprocessing.
 - Sentiment classification using VADER (Positive, Neutral, Negative).
 - Exporting results to structured formats (Excel/CSV).

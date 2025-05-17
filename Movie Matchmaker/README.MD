@@ -27,7 +27,7 @@ A content-based movie recommendation system built using Python, Streamlit, and m
 
 ## 🧠 How it Works
 
-1. User selects a movie from a dropdown menu.
+1. The user selects a movie from a dropdown menu.
 2. A similarity score is computed using cosine similarity (preprocessed).
 3. Top 5 most similar movies are fetched.
 4. Posters are retrieved from the OMDB API.
@@ -52,9 +52,5 @@ A content-based movie recommendation system built using Python, Streamlit, and m
 
 ---
 
-## 🧰 Setup Instructions
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/ML-Projects.git
 

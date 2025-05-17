@@ -37,8 +37,7 @@ A content-based movie recommendation system built using Python, Streamlit, and m
 
 ## 🖥️ App Preview
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Movie+Recommender+System+Demo)
-
+![Movie Recommender Screenshot](app interface 1.png)
 ---
 
 ## 🧾 Files in the Project

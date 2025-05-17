@@ -31,4 +31,8 @@ To automate the extraction of news articles and analyze their sentiment to asses
 
 ---
 
+## 📤 Project Output
+
+- An interactive Streamlit interface, describing the final results of the sentiment analysis. It contains the graphical representation of sentiment count (positive, negative, and neutral) as well as some added functionalities like the word cloud of the most repetitive words in the scraped articles and a feature to search for articles through keywords. 
+
 
